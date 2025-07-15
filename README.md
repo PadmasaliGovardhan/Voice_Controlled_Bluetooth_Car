@@ -20,7 +20,7 @@ Wireless Bluetooth communication using HC-05 (up to 10 meters).
 
 Bidirectional motor control with L293D driver.
 
-Extensible for additional sensors (e.g., ultrasonic, cameras).
+'''Extensible for additional sensors (e.g., ultrasonic, cameras).'''
 
 Educational platform for learning embedded systems and robotics.
 
